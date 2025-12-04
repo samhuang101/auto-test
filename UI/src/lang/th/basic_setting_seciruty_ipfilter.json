@@ -1,0 +1,31 @@
+{
+    "basic_setting_seciruty_ipfilter": {
+        "lang_ipfilter_enable": "เปิดการใช้งานตัวกรองไอพี",
+        "lang_ipfilter_ipmode": "โหมดการกรอง",
+        "lang_ipfilter_filter_mode": "โหมดตัวกรองไอพี",
+        "lang_ipfilter_iface_list": "เลือกอินเทอร์เฟซ",
+        "lang_ipfilter_proto": "โปรโตคอล",
+        "lang_ipfilter_comment": "คำอธิบายเพิ่มเติม",
+        "lang_ipfilter_add_btn": "เพิ่ม",
+        "lang_ipfilter_blacklist_title": "ตารางห้ามการใช้งานของตัวกรองปัจจุบัน",
+        "lang_ipfilter_item_number": "หมายเลข",
+        "lang_ipfilter_item_src_ipaddr": "ไอพีแอดเดรสในเครือข่าย",
+        "lang_ipfilter_item_end_ipaddr": "ไอพีแอดเดรสสุดท้ายในเครือข่าย",
+        "lang_ipfilter_item_dest_src_ipaddr": "ไอพีแอดเดรสปลายทาง",
+        "lang_ipfilter_item_dest_end_ipaddr": "แอดเดรสปลายทางสุดท้าย",
+        "lang_ipfilter_item_proto": "โปรโตคอล",
+        "lang_ipfilter_item_wan": "ชื่อการเชื่อมต่อ WAN",
+        "lang_ipfilter_item_comment": "คำอธิบายเพิ่มเติม",
+        "lang_ipfilter_item_active": "เปิดใช้งาน",
+        "lang_ipfilter_local_addr_v4": "IPv4 แอดเดรสในเครือข่าย",
+        "lang_ipfilter_dest_addr_v4": "IPv4 แอดเดรสปลายทาง",
+        "lang_ipfilter_local_addr_v6": "IPv6 แอดเดรสในเครือข่าย",
+        "lang_ipfilter_dest_addr_v6": "IPv6 แอดเดรสปลายทาง",
+        "lang_ipfilter_current_blacklist_table": "ตารางห้ามการใช้งานของตัวกรองปัจจุบัน",
+        "lang_ipfilter_current_whitelist_table": "ตารางอนุญาตการใช้งานของตัวกรองปัจจุบัน",
+        "lang_change_mode_title": "เปลี่ยนโหมด",
+        "lang_whitelist_save_confirm_msg": "You will lost internet connection after changing to white list. Are you sure?",
+        "lang_ipfilter_max_entries_limit_msg": "จำนวนรายการกรอง IP สูงสุด 20 รายการ",
+        "lang_ipfilter_invalid_ip_address_msg": "ที่อยู่ IP ไม่ถูกต้อง"
+    }
+}

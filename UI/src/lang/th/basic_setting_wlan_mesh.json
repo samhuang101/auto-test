@@ -1,0 +1,18 @@
+{
+    "basic_setting_wlan_mesh": {
+        "lang_auth": "การยืนยันตัวตน ",
+        "lang_encrypt": "โหมดการเข้ารหัส ",
+        "lang_pwd": "คีย์รหัสผ่าน WPA ",
+        "lang_wireless": "การตั้งค่าเครือข่ายไร้สาย",
+        "lang_show_key": "Show Key",
+        "lang_hide_key": "Hide Key",
+        "lang_wlan_commin_ssid_title": "Common SSID Enabled",
+        "lang_wlan_mlo_title": "MLO Enabled",
+        "lang_mesh_enabled": "Mesh Enabled",
+        "lang_ssid": "Backhaul SSID",
+        "lang_mesh_enable_confirm_msg": "Warning! Disabling the mesh function on the Controller will cause the wireless agent to lose control.",
+        "lang_BSS_color_enabled": "BSS Color Enabled",
+        "lang_mlo_enable_confirm_msg": "คำเตือน! หากคุณคลิก \"ตกลง\" โหมด Wi-Fi ทั้งหมดจะถูกเปลี่ยนเป็น IEEE 802.11be",
+        "lang_mesh_loading_msg": "การตั้งค่านี้อาจใช้เวลาสักครู่ในการปรับใช้ ขอบคุณสำหรับความอดทนของคุณ"
+    }
+}

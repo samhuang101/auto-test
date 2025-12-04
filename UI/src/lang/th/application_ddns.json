@@ -1,0 +1,27 @@
+{
+    "application_ddns": {
+        "lang_ddns_enabled": "เปิดการใช้งาน DDNS",
+        "lang_ddns_provider": "ผู้ให้บริการ",
+        "lang_ddns_domainname": "ชื่อโดเมน",
+        "lang_ddns_user": "ชื่อผู้ใช้/อีเมล์",
+        "lang_ddns_pw": "รหัสผ่าน/คีย์",
+        "lang_ddns_system": "ระบบ",
+        "lang_ddns_exchange": "Mail Exchange (ตัวเลือกเพิ่มเติม)",
+        "lang_ddns_backupmx": "MX สำรอง",
+        "lang_ddns_wildcard": "ไวด์การ์ด",
+        "lang_ddns_apply": "นำไปใช้",
+        "lang_ddns_refresh": "รีเฟรช",
+        "lang_ddns_status": "สถานะ DDNS",
+        "lang_ddns_item_domainname": "ชื่อโดเมน",
+        "lang_ddns_item_usermail": "ชื่อผู้ใช้/อีเมล์",
+        "lang_ddns_item_ipaddr": "IP Address ของอินเทอร์เน็ต",
+        "lang_ddns_item_status": "สถานะ DDNS",
+        "lang_ddns_status_disabled": "ปิดการใช้งาน",
+        "lang_ddns_status_success": "อัพเดตสำเร็จ",
+        "lang_ddns_status_fail": "การยืนยันตัวต้นล้มเหลว",
+        "lang_ddns_status_invalid_hostname": "ชื่อโฮสต์ไม่ถูกต้อง",
+        "lang_ddns_status_connected": "ชื่อมต่อแล้ว",
+        "lang_ddns_status_no_internet": "ไม่ได้เชื่อมต่ออินเทอร์เน็ต",
+        "lang_ddns_status_complete": "การทำงานเสร็จสมบูรณ์"
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "adv_setting_service_control": {
+        "lang_acl_title": "Access Control - กำหนดค่าไอพีแอดเดรส",
+        "lang_acl_cancel_title": "ยกเลิก",
+        "lang_acl_confirml_title": "ยืนยัน",
+        "lang_acl_enabled_title": "เปิดการใช้งาน ACL",
+        "lang_acl_service_type_title": "ประเภทบริการ",
+        "lang_acl_access_dir_title": "ทิศทางการเข้าถึง",
+        "lang_acl_protocol_title": "โปรโตคอล",
+        "lang_acl_ip_range_title": "ช่วงไอพี",
+        "lang_acl_status_title": "สถาน",
+        "lang_acl_method_title": "วิธีการ",
+        "lang_acl_add_title": "เพิ่ม",
+        "lang_acl_access_ctrl_title": "Access Control",
+        "lang_acl_ip_proto_title": "ประเภทโปรโตคอลของไอพี",
+        "lang_acl_enable_title": "เปิดการใช้งาน",
+        "lang_acl_srcip_title": "ไอพีต้นทาง",
+        "lang_acl_srcip_title_start": "Source IP (Start)",
+        "lang_acl_srcip_title_end": "Source IP (End)",
+        "lang_acl_ip_start_error": "ไอพีแอดเดรสต้นทางแรกเกิดความผิดพลาด!",
+        "lang_acl_ip_end_error": "ไอพีแอดเดรสต้นทางสุดท้ายเกิดความผิดพลาด!",
+        "lang_acl_add_success_msg": "เพิ่มสำเร็จ!",
+        "lang_acl_del_success_msg": "ลบสำเร็จ!",
+        "lang_acl_ip_any_title": "ทุกไอพี",
+        "lang_acl_delete_title": "ลบ",
+        "lang_acl_disable_title": "ปิดการทำงาน",
+        "lang_acl_nodata_title": "ไม่มีข้อมูล",
+        "lang_acl_rule_type": "Rule Type",
+        "lang_acl_accept_title": "Accept",
+        "lang_acl_block_title": "Block"
+    }
+}

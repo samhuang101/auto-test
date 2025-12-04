@@ -1,0 +1,8 @@
+{
+    "application_dlna": {
+        "lang_dlna_enable": "เปิดการใช้งาน DLNA",
+        "lang_dlna_folder": "โฟลเดอร์ที่แบ่งปัน",
+        "lang_dlna_apply_btn": "นำไปใช้",
+        "lang_dlna_custom_shared_folders_path": "Custom Shared Folders Path"
+    }
+}

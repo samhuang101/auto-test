@@ -1,0 +1,15 @@
+{
+    "management_opmode": {
+        "lang_opmode_title": "โหมดการทำงาน",
+        "lang_opmode_mode_title": "เปลี่ยนโหมด",
+        "lang_opmode_auto_mode_title": "โหมดอัตโนมัติ",
+        "lang_opmode_main_router_tagged_mode_title": "โหมดเราเตอร์หลัก (Tagged)",
+        "lang_opmode_main_router_untagged_mode_title": "โหมดเราเตอร์หลัก (Untagged)",
+        "lang_opmode_main_ap_untagged_mode_title": "Main AP Untagged mode",
+        "lang_opmode_ap_mode_title": "โหมด AP",
+        "lang_opmode_init_error_title": "อุปกรณ์ล้มเหลวในการกำหนดค่า",
+        "lang_opmode_reset_confirm_title": "อุปกรณ์นี้จะรีเซตค่าไปยังค่ามาตรฐาน",
+        "lang_opmode_init_error_msg": "กรุณาล็อกอินอีกครั้ง! Error message:undefined",
+        "lang_opmode_mesh_info_msg": "หากคุณต้องการเปลี่ยนโหมดการทำงาน คุณจะต้องปิดการใช้งาน EasyMesh เสียก่อน"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "application_storage_storage_info": {
+        "lang_storage_partition": "พาร์ทิชัน",
+        "lang_storage_total": "รวม(KB)",
+        "lang_storage_available": "สามารถใช้งานได้(KB)",
+        "lang_storage_used": "ใช้ไปแล้ว(KB)",
+        "lang_storage_percentage": "%การใช้งาน",
+        "lang_storage_type": "ประเภทของระบบ"
+    }
+}

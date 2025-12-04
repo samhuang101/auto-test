@@ -1,0 +1,26 @@
+{
+    "basic_setting_cellular": {
+        "lang_cellular_common_zone_title": "Paramètres Common",
+        "lang_network_mode": "Réseau Mode",
+        "lang_auto_connect": "Activer Auto Connection",
+        "lang_roaming": "Activer Roaming",
+        "lang_vapn": "Activer Voice APN",
+        "lang_dmapn": "Activer DM APN",
+        "lang_usage_limit": "Usage Limit",
+        "lang_dl_limit": "Download Limit",
+        "lang_up_limit": "Upload Limit",
+        "lang_cellular_apn_zone_title": "Paramètres APN",
+        "lang_pdp_type": "PDP Type",
+        "lang_auto_apn": "Auto",
+        "lang_manual_apn": "Manual",
+        "lang_apn_mode": "APN Setting",
+        "lang_apn": "APN",
+        "lang_auth": "Authentication",
+        "lang_username": "Nom d’utilisateur",
+        "lang_password": "Mot de passe",
+        "lang_dl_limit_error": "Please set Download Limit range from 0 to 204800 !",
+        "lang_up_limit_error": "Please set Upload Limit range from 0 to 204800 !",
+        "lang_usage_dl_limit": "Limite d’utilisation – téléchargement",
+        "lang_usage_up_limit": "Limite d’utilisation – téléversement"
+    }
+}

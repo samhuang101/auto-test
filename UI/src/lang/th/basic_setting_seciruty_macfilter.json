@@ -1,0 +1,19 @@
+{
+    "basic_setting_seciruty_macfilter": {
+        "lang_macfilter_enable": "เปิดการใช้งานตัวกรอง MAC",
+        "lang_macfilter_mode": "โหมดตัวกรอง",
+        "lang_macfilter_smac_addr": "Source MAC Address",
+        "lang_macfilter_comment": "คำอธิบายเพิ่มเติม",
+        "lang_macfilter_add_btn": "เพิ่ม",
+        "lang_macfilter_table": "ตารางห้ามการใช้งานของตัวกรองปัจจุบัน",
+        "lang_macfilter_item_number": "หมายเลข",
+        "lang_macfilter_item_smac_addr": "Source MAC Address",
+        "lang_macfilter_item_comment": "คำอธิบายเพิ่มเติม",
+        "lang_macfilter_item_active": "เปิดใช้งาน",
+        "lang_macfilter_mode_blacklist": "ตารางห้ามการใช้งานของตัวกรองปัจจุบัน",
+        "lang_macfilter_mode_whitelist": "ตารางอนุญาตการใช้งานของตัวกรองปัจจุบัน",
+        "lang_change_mode_title": "เปลี่ยนโหมด",
+        "lang_whitelist_save_confirm_msg": "You will lost internet connection after changing to white list. Are you sure?",
+        "lang_macfilter_max_entries_limit_msg": "จำนวนรายการกรอง MAC สูงสุด 20 รายการ"
+    }
+}

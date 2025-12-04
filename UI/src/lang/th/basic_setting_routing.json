@@ -1,0 +1,20 @@
+{
+    "basic_setting_routing": {
+        "lang_rt_table_title": "Route Table แบบกำหนดเอง",
+        "lang_rt_item_dest_ip": "ไอพีแอดเดรสปลายทาง",
+        "lang_rt_item_mask": "เน็ตมาสก์",
+        "lang_rt_item_gw": "เกตเวย์",
+        "lang_rt_item_metric": "เมตริก",
+        "lang_rt_item_iface": "อินเทอร์เฟซ",
+        "lang_rt_item_select": "เลือก",
+        "lang_rt_add_btn": "เพิ่ม",
+        "lang_rt_dialog_enable": "เปิดการใช้งาน Route แบบกำหนดเอง",
+        "lang_rt_dialog_ipaddr": "ไอพีแอดเดรส",
+        "lang_rt_dialog_mask": "ซับเน็ตมาสก์",
+        "lang_rt_dialog_gw": "เกตเวย์",
+        "lang_rt_dialog_metric": "เมตริก",
+        "lang_rt_dialog_iface": "อินเทอร์เฟซ",
+        "lang_rt_item_route_name": "Route Name",
+        "lang_rt_dialog_route_name": "Route Name"
+    }
+}

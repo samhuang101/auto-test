@@ -1,0 +1,13 @@
+{
+    "basic_setting_wlan_wifi_adv5": {
+        "lang_mode": "Mode",
+        "lang_bandwidth": "Bandwidth ",
+        "lang_channel": "ช่องสัญญาณ",
+        "lang_max": "จำนวนเครื่องเชื่อมต่อสูงสุด",
+        "lang_gi": "Short GI",
+        "lang_wmm": "WMM",
+        "lang_txbf": "เปิดการใช้งาน TXBF",
+        "lang_Mixed": "แบบผสม",
+        "lang_Auto": "อัตโนมัติ"
+    }
+}

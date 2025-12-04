@@ -1,0 +1,23 @@
+{
+    "adv_setting_usp_agent": {
+        "lang_usp_enable_title": "Enabled",
+        "lang_usp_agent_table_title": "Liste Connection",
+        "lang_agent_connection": "Nom Connection",
+        "lang_agent_endpoint_id_title": "Agent Endpoint ID",
+        "lang_controller_endpoint_id_title": "Controller Endpoint ID",
+        "lang_protocol_mode": "Controller Protocol",
+        "lang_usp_enable": "Statut",
+        "lang_select_usp_server": "Serveur Select USP",
+        "lang_agent_item_select": "Action",
+        "lang_controller_topic_title": "Controller Topic",
+        "lang_response_topic_title": "Response Topic",
+        "lang_mqtt_broker_ip_title": "Adresse MQTT",
+        "lang_mqtt_broker_port_title": "MQTT Port",
+        "lang_mqtt_broker_username_title": "Nom d’utilisateur MQTT",
+        "lang_mqtt_broker_password_title": "Mot de passe MQTT",
+        "lang_mqtt_proto": "MQTT Transport Protocol",
+        "lang_mqtt_version": "MQTT Protocol Version",
+        "lang_controller_parameter_name_title": "Nom Parameter",
+        "lang_controller_noti_interval_title": "Notify Interval"
+    }
+}

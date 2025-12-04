@@ -1,0 +1,21 @@
+{
+    "status_wan": {
+        "lang_wan_st_ipv4_status_title": "IPv4 WAN Connection Statut",
+        "lang_wan_st_connection_name_title": "Nom Connection",
+        "lang_wan_st_type_title": "Type",
+        "lang_wan_st_ipaddress_title": "adresse IP",
+        "lang_wan_st_status_title": "Statut",
+        "lang_wan_st_method_title": "Method",
+        "lang_wan_st_ipv6_status_title": "IPv6 WAN Connection Statut",
+        "lang_wan_st_gateway_title": "Default Passerelle",
+        "lang_wan_st_more_title": "more",
+        "lang_wan_st_connected": "Connected",
+        "lang_wan_st_disconnected": "Disconnected",
+        "lang_wan_st_confirm_title": "confirm",
+        "lang_wan_st_dns1_title": "Primary DNS",
+        "lang_wan_st_dns2_title": "Secondary DNS",
+        "lang_wan_st_netmask_title": "Mask",
+        "lang_wan_st_prefix_title": "Prefix",
+        "lang_wan_st_pd_title": "Prefix Delegation"
+    }
+}

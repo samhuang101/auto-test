@@ -1,0 +1,26 @@
+{
+    "basic_setting_wlan_wifi_wps": {
+        "lang_wps_title": "การตั้งค่า WPS",
+        "lang_wps_enable_title": "เปิดการใช้งาน WPS",
+        "lang_wps_pbc_title": "กดปุ่ม WPS",
+        "lang_wps_pin_title": "กรอกหมายเลข PIN",
+        "lang_wps_msg1": "กำลังค้นหาอุปกรณ์ของคุณ",
+        "lang_wps_msg2": "ถ้าคุณยังไม่ได้คลิกปุ่ม WiFi Protected Setup บนอุปกรณ์ของคุณ โปรดคลิกตอนนี้",
+        "lang_wps_success_msg": "อุปกรณ์ของคุณได้เชื่อมต่อกับระบบเครือข่ายของคุณอย่างปลอดภัย",
+        "lang_wps_failed_msg": "อุปกรณ์ของคุณไม่สามารถเชื่อมต่อกับเครือข่ายได้",
+        "lang_wps_done_msg": "โปรดกลับไปดูที่อุปกรณ์เพื่อดำเนินตามขั้นตอนต่อไป",
+        "lang_wps_vap_info_title": "ข้อมูล VAP",
+        "lang_wps_band_hd": "คลื่นความถี่",
+        "lang_wps_status_hd": "สถานะ WPS",
+        "lang_wps_ssid_hd": "SSID",
+        "lang_wps_auth_hd": "การยืนยันตัวตน",
+        "lang_wps_encryption_hd": "การเข้ารหัส",
+        "lang_wps_configured_title": "ตั้งค่าแล้ว",
+        "lang_wps_notconfigured_title": "ยังไม่ได้ตั้งค่า",
+        "lang_wps_pin_error_msg": "รหัส WPS PIN ไม่ถูกต้อง",
+        "lang_wps_title2": "Wi-Fi Protected Setup<sup>TM</sup>",
+        "lang_wps_success_title": "ยินดีด้วย!",
+        "lang_wps_failed_title": "ไม่สามารถเชื่อมต่อได้!",
+        "lang_wps_mesh_msg": "หากคุณต้องการเปิดใช้งาน WPS คุณจะต้องปิดการใช้งาน EasyMesh เสียก่อน"
+    }
+}

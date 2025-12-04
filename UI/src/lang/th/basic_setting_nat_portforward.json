@@ -1,0 +1,28 @@
+{
+    "basic_setting_nat_portforward": {
+        "lang_pfr_wan_title": "การเชื่อมต่อ WAN",
+        "lang_pfr_add": "เพิ่ม",
+        "lang_pfr_number": "หมายเลข",
+        "lang_pfr_enabled": "เปิดการใช้งาน",
+        "lang_pfr_desc": "คำอธิบาย",
+        "lang_pfr_remote_ip": "ไอพีแอดเดรสภายนอก",
+        "lang_pfr_proto": "โปรโตคอล",
+        "lang_pfr_remote_port_range": "ช่วงของพอร์ตภายนอก",
+        "lang_pfr_local_port_range": "ช่วงของพอร์ตภายใน",
+        "lang_pfr_local_ip": "ไอพีแอดเดรสภายใน",
+        "lang_pfr_active": "เปิดใช้งาน",
+        "lang_pfr_dialog_enabled": "เปิดการใช้งานพอร์ตฟอร์เวิร์ด",
+        "lang_pfr_dialog_iface": "เลือกอินเทอร์เฟซ",
+        "lang_pfr_dialog_local_ipaddr": "ไอพีแอดเดรสในเครือข่าย",
+        "lang_pfr_dialog_local_portrange": "ชื่อของพอร์ตในเครือข่าย",
+        "lang_pfr_dialog_proto": "โปรโตคอล",
+        "lang_pfr_dialog_rm_ipaddr": "ไอพีแอดเดรสภายนอก",
+        "lang_pfr_dialog_rm_portrange": "ช่องของพอร์ตภายนอก",
+        "lang_pfr_dialog_common": "คำอธิบายเพิ่มเติม",
+        "lang_pfr_dialog_rm_portrange_start": "ช่องของพอร์ตภายนอก(Start)",
+        "lang_pfr_dialog_rm_portrange_end": "ช่องของพอร์ตภายนอก(End)",
+        "lang_pfr_dialog_local_portrange_start": "ชื่อของพอร์ตในเครือข่าย(Start)",
+        "lang_pfr_dialog_local_portrange_end": "ชื่อของพอร์ตในเครือข่าย(End)",
+        "lang_pfr_max_entries_limit_msg": "จำนวนรายการการส่งต่อพอร์ตสูงสุดคือ 15 รายการ"
+    }
+}

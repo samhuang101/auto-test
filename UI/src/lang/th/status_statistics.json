@@ -1,0 +1,13 @@
+{
+    "status_statistics": {
+        "lang_statistics_lan_title": "สถิติการใช้งาน - LAN",
+        "lang_statistics_wlan_title": "สถิติการใช้งาน - WLAN",
+        "lang_statistics_received_title": "รับข้อมูล",
+        "lang_statistics_transmitted_title": "ส่งข้อมูล",
+        "lang_statistics_port_title": "พอร์ต",
+        "lang_statistics_bytes_title": "ไบท์",
+        "lang_statistics_packets_title": "แพกเกจ",
+        "lang_statistics_error_title": "ผิดพลาด",
+        "lang_statistics_discard_title": "ยกเลิก"
+    }
+}

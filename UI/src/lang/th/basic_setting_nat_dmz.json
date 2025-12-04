@@ -1,0 +1,13 @@
+{
+    "basic_setting_nat_dmz": {
+        "lang_dmz_enable": "เปิดการใช้งาน DMZ",
+        "lang_dmz_interface": "เลือกอินเทอร์เฟซ",
+        "lang_dmz_host": "เครื่องที่ใช้ DMZ",
+        "lang_dmz_ipaddr": "ไอพีแอดเดรสของเครื่องที่ใช้ DMZ",
+        "lang_dmz_add_btn": "เพิ่ม",
+        "lang_dmz_list_title": "รายชื่อเครื่องที่ใน DMZ",
+        "lang_dmz_item_ipaddr": "ไอพีแอดเดรสของเครื่องที่ใช้ DMZ",
+        "lang_dmz_item_interface": "อินเทอร์เฟซ",
+        "lang_dmz_item_method": "วิธีการ"
+    }
+}

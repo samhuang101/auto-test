@@ -1,0 +1,20 @@
+{
+    "status_lan": {
+        "lang_lan_host_title": "อุปกรณ์ในเครือข่าย",
+        "lang_ipv4_address": "IPv4 แอดเดรส",
+        "lang_ipv4_netmask": "ซับเน็ตมาสก์",
+        "lang_ipv4_gateway": "เกตเวย์เริ่มต้น",
+        "lang_ipv6_address": "IPv6 แอดเดรส",
+        "lang_mac_address": "แมคแอดเดรส",
+        "lang_lan_ethernet_title": "การเชื่อมต่อ LAN",
+        "lang_interface_title": "อินเทอร์เฟซ",
+        "lang_status_title": "สถานะ",
+        "lang_speed_title": "ความเร็ว",
+        "lang_duplex_title": "Duplex",
+        "lang_lan_title": "LAN",
+        "lang_status_down": "ไม่ทำงาน",
+        "lang_status_up": "ทำงาน",
+        "lang_duplex_half": "Half",
+        "lang_duplex_full": "Full"
+    }
+}

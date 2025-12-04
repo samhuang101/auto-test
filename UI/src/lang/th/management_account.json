@@ -1,0 +1,16 @@
+{
+    "management_account": {
+        "lang_account_title": "การจัดการบัญชีผู้ใช้ - รหัสผ่าน",
+        "lang_account_help_msg": "ใช้ช่องข้างล่างนี้เพื่อกรอกรหัสผ่านสูงสุด 15 ตัวอักษร จากนั้นคลิก \"นำไปใช้\" เพื่อเปลี่ยนหรือตั้งรหัสผ่าน",
+        "lang_account_note_msg": "คำเตือน : รหัสไม่สามารถมีเว้นวรรคได้",
+        "lang_account_username_title": "ชื่อผู้ใช้",
+        "lang_account_oldpassword_title": "รหัสผ่านเดิม",
+        "lang_account_newpassword_title": "รหัสผ่านใหม่",
+        "lang_account_confirmpassword_title": "ยืนยันรหัสผ่าน",
+        "lang_account_apply_title": "นำไปใช้",
+        "lang_account_refresh_title": "รีเฟรช",
+        "lang_account_password_empty_error": "รหัสผ่านไม่ได้สามารถว่างเปล่า!",
+        "lang_account_password_confirm_error": "รหัสผ่านทั้ง 2 ช่องไม่ตรงกัน โปรดแก้ไข",
+        "lang_account_oldpassword_change_error": "Entered password is incorrect!"
+    }
+}

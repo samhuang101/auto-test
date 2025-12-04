@@ -1,0 +1,7 @@
+{
+    "application_storage_ftp": {
+        "lang_ftp_enable": "เปิดการใช้งานบริการ FTP",
+        "lang_ftp_dir": "ไดเรคทอรี่ของ FTP",
+        "lang_ftp_apply_btn": "นำไปใช้"
+    }
+}

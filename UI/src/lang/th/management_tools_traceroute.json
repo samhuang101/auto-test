@@ -1,0 +1,12 @@
+{
+    "management_tools_traceroute": {
+        "lang_traceroute_title": "Trace Route",
+        "lang_traceroute_interface_title": "เลือกอินเทอร์เฟศ",
+        "lang_traceroute_proto_title": "ประเภทโปรโตคอล",
+        "lang_traceroute_ipurl_title": "โดเมนหรือ IP ปลายทาง",
+        "lang_traceroute_ipurl_error": "โดเมนหรือ IP ปลายทางไม่ถูกต้อง! ตัวอย่างเช่น 192.168.1.100",
+        "lang_traceroute_start_title": "เริ่ม",
+        "lang_traceroute_result_title": "ผลลัพท์การทดสอบ",
+        "lang_traceroute_ipurl6_error": "โดเมนหรือ IP ปลายทางไม่ถูกต้อง! ตัวอย่างเช่น 2001:1234:abcd::1"
+    }
+}

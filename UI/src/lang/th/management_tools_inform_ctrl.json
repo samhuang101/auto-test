@@ -1,0 +1,19 @@
+{
+    "management_tools_inform_ctrl": {
+        "lang_infomanul_title": "การกำหนดค่าการส่งรายงาน",
+        "lang_infomanul_dstaddr_title": "ที่อยู่ปลายทาง",
+        "lang_infomanul_report_title": "การกำหนดค่าการส่งรายงาน",
+        "lang_infomanul_result_title": "ผลการส่งรายงาน",
+        "lang_infomanul_waiting_msg": "จะได้รับผลภายใน...",
+        "lang_infomanul_success_msg": "การส่งรายงานสำเร็จ",
+        "lang_infomanul_enable_title": "Enable",
+        "lang_infomanul_server1_title": "First Server:",
+        "lang_infomanul_time_title": "Interval Time:",
+        "lang_infomanul_server2_title": "Second Server:",
+        "lang_infomanul_content1_title": "AIS Agent secret key version",
+        "lang_infomanul_content2_title": "AIS Agent secret key",
+        "lang_infomanul_send_title": "Send Now",
+        "lang_infomanul_server_disabled": "ปิดการใช้งาน",
+        "lang_infomanul_timeout": "Idle Timeout"
+    }
+}

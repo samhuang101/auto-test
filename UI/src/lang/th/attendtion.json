@@ -1,0 +1,8 @@
+{
+    "attendtion": {
+        "lang_attendtion_tip1": "คำเตือน! ขณะนี้ท่านไม่สามารถใช้งานอินเทอร์เน็ตได้!",
+        "lang_attendtion_tip2": "โปรดปิดอุปกรณ์เราท์เตอร์ และอุปกรณ์อื่นๆ ที่เกี่ยวข้อง เป็นเวลา 5 นาที หลังจากนั้นให้ทำการเปิดอุปกรณ์อีกครั้ง",
+        "lang_attendtion_tip3": "The network used is not a AIS network, the device is locked.",
+        "lang_attendtion_continue_btn": "ต่อไป"
+    }
+}

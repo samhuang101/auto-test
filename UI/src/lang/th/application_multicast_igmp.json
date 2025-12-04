@@ -1,0 +1,10 @@
+{
+    "application_multicast_igmp": {
+        "lang_multicast_igmp_enable": "เปิดการใช้งาน IGMP Snooping",
+        "lang_multicast_mld_enable": "เปิดการใช้งาน MLD Snooping",
+        "lang_multicast_igmp_proxy": "เปิดการใช้งาน IGMP Proxy",
+        "lang_multicast_mld_proxy": "เปิดการใช้งาน MLD Proxy",
+        "lang_multicast_apply_btn": "นำไปใช้",
+        "lang_igmp_version": "IGMP Version"
+    }
+}

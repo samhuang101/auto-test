@@ -1,0 +1,10 @@
+{
+    "application_storage_storage_info": {
+        "lang_storage_partition": "Nom du volume",
+        "lang_storage_total": "Espace total(KB)",
+        "lang_storage_available": "Espace disponible(KB)",
+        "lang_storage_used": "Utilisée(KB)",
+        "lang_storage_percentage": "Usage(%)",
+        "lang_storage_type": "Format du système"
+    }
+}

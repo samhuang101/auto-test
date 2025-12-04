@@ -1,0 +1,14 @@
+{
+    "management_settings_backup": {
+        "lang_file_null_msg": "กรุณาเลือกไฟล์สำหรับการกู้คืนค่า",
+        "lang_file_error_msg": "ไฟล์นั้นไม่ถูกต้อง กรุณาเลือกไฟล์อื่น",
+        "lang_restore_fail_msg": "เราไม่สามารถกู้คืนการตั้งค่าได้",
+        "lang_content1": "บันทึกการตั้งค่า: ไปยังฮาร์ดดิสก์ของเครื่อง",
+        "lang_content2": "โหลดการตั้งค่า: จากฮาร์ดดิสก์ในเครื่อง",
+        "lang_select": "เลือกไฟล์",
+        "lang_update": "อัพเดต",
+        "lang_save": "บันทึก",
+        "lang_backup_config": "Backup Config",
+        "lang_restore_config": "Restore Config"
+    }
+}

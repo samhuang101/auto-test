@@ -1,0 +1,8 @@
+{
+    "adv_setting_ssh": {
+        "lang_ssh_title": "บริการ - ตั้งค่าบริการ SSH",
+        "lang_ssh_enabled_title": "เปิดการใช้บริการ SSH",
+        "lang_ssh_apply_title": "นำไปใช้",
+        "lang_ssh_help_msg": "โปรดไปยังหน้าการตั้งค่า \\\"Service Ctrl\"\\ เพื่อเปิดการใช้งาน ACL สำหรับบริการ SSH"
+    }
+}

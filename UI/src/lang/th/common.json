@@ -1,0 +1,32 @@
+{
+    "common": {
+        "lang_logout": "ล็อกเอาท์",
+        "lang_faq": "คำถามที่พบบ่อย",
+        "lang_faq_number": "ศูนย์บริการ AIS 1175",
+        "lang_copyright": "© 2021 ADVANCED INFO SERVICE PLC. ALL RIGHTS RESERVED. <br> This site is best viewed using Internet Explorer 9, Chrome, Safari and browser later.",
+        "lang_plz_wait": "โปรดรอ...",
+        "lang_warning_title": "คำเตือน:",
+        "lang_reboot_title": "รีสตาร์ทระบบ",
+        "lang_reboot_msg": "กำลังรีสตาร์ท. โปรดรอ...",
+        "lang_loading_msg": "กำลังโหลด...",
+        "lang_confirm_btn_title": "ยืนยัน",
+        "lang_apply_btn_title": "นำไปใช้",
+        "lang_cancel_btn_title": "ยกเลิก",
+        "lang_refresh_btn_title": "รีเฟรช",
+        "lang_success_msg": "สำเร็จ",
+        "lang_error_msg": "ผิดพลาด",
+        "lang_fail_msg": "ล้มเหลว",
+        "lang_en_title": "English",
+        "lang_th_title": "ไทย",
+        "lang_rebooting": "กำลังรีบูทอุปกรณ์",
+        "lang_reconnect_msg": "โปรดเชื่อมต่อกับเราเตอร์อีกครั้งหลังจากรีบูท หากการเชื่อมต่อถูกตัดไป",
+        "lang_tw_title": "繁體中文",
+        "lang_cn_title": "简体中文",
+        "btnNext": "Next",
+        "btnBack": "Back",
+        "btnClose": "Close",
+        "btnOk": "OK",
+        "btnSkip": "Skip",
+        "btnDone": "Done"
+    }
+}

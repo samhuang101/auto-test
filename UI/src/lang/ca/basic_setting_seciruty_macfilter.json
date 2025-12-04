@@ -1,0 +1,19 @@
+{
+    "basic_setting_seciruty_macfilter": {
+        "lang_macfilter_enable": "Activer MAC Filtering",
+        "lang_macfilter_mode": "Filter Mode",
+        "lang_macfilter_smac_addr": "Adresse Source MAC",
+        "lang_macfilter_comment": "Comment",
+        "lang_macfilter_add_btn": "Ajouter",
+        "lang_macfilter_table": "Current Blacklist Filter Table",
+        "lang_macfilter_item_number": "Number",
+        "lang_macfilter_item_smac_addr": "Adresse Source MAC",
+        "lang_macfilter_item_comment": "Comment",
+        "lang_macfilter_item_active": "Active",
+        "lang_macfilter_mode_blacklist": "Current Blacklist Filter Table",
+        "lang_macfilter_mode_whitelist": "Current Whitelist Filter Table",
+        "lang_change_mode_title": "Change Mode",
+        "lang_whitelist_save_confirm_msg": "You will lost internet connection after changing to white list. Are you sure?",
+        "lang_macfilter_max_entries_limit_msg": "Le nombre maximal d’entrées de filtrage MAC est de 20."
+    }
+}

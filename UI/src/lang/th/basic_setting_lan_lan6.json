@@ -1,0 +1,31 @@
+{
+    "basic_setting_lan_lan6": {
+        "lang_managed_flag": "จัดการ Flag",
+        "lang_other_flag": "ตั้งค่า Flag อื่นๆ",
+        "lang_max_ra": "Max RA Interval",
+        "lang_min_ra": "Min RA Interval",
+        "lang_seconds": "วินาที",
+        "lang_dhcp6s": "เปิดการใช้งาน DHCP6S",
+        "lang_ipv6_mode": "โหมดของ IPv6",
+        "lang_auto": "อัตโนมัติ",
+        "lang_manual": "กำหนดเอง",
+        "lang_start_ipv6": "IPv6 แอดเดรสเริ่มต้น",
+        "lang_end_ipv6": "IPv6 แอดเดรสสุดท้าย",
+        "lang_ipv6_prefix": "IPv6/Prefix",
+        "lang_dns": "เซิร์ฟเวอร์ DNS",
+        "lang_prefix_set": "ตั้งค่า Prefix",
+        "lang_apply": "นำไปใช้",
+        "lang_refresh": "รีเฟรช",
+        "lang_statefulv6": "Stateful DHCPv6",
+        "lang_slacc": "Stateless Address Autoconfiguration",
+        "lang_statelessv6": "Stateless Address Autoconfiguration + Stateless DHCPv6",
+        "lang_dhcpv6_mode": "Auto Configuration Mode",
+        "lang_error_message_start_end_addr_invalid_format": "คำนำหน้าที่อยู่ IPv6 ต้องเป็น ::",
+        "lang_error_message_start_end_addr_invalid_range_format": "ที่อยู่ IPv6 เริ่มต้นและสิ้นสุดต้องอยู่ในช่วง ::1000 ถึง ::ffff",
+        "lang_error_message_start_end_addr_invalid_range": "ที่อยู่ IPv6 สิ้นสุดต้องมีค่ามากกว่าหรือเท่ากับที่อยู่ IPv6 เริ่มต้น",
+        "lang_error_message_ra_max_interval_invalid_format": "ค่า Max RA Interval ไม่ถูกต้อง",
+        "lang_error_message_ra_min_interval_invalid_format": "ค่า Min RA Interval ไม่ถูกต้อง",
+        "lang_error_message_ra_max_interval_invalid_range_format": "ช่วงเวลา Max RA ต้องอยู่ระหว่าง 4 ถึง 1800 วินาที.",
+        "lang_error_message_ra_min_interval_invalid_range_format": "ช่วงเวลา Min RA ต้องอยู่ระหว่าง 3 วินาที และ 0.75 × ช่วงเวลา Max RA."
+    }
+}

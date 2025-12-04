@@ -1,0 +1,25 @@
+{
+    "basic_setting_lan_lan4": {
+        "lang_ip": "ไอพีแอดเดรส",
+        "lang_mask": "ซับเน็ตมาสก์",
+        "lang_dns": "โหมดของ DNS",
+        "lang_proxy": "ใช้ DNS Proxy",
+        "lang_relay": "ใช้ DNS Relay",
+        "lang_manual": "ตั้งค่าแบบกำหนดเอง",
+        "lang_primary_dns": "เซิร์ฟเวอร์ DNS หลัก",
+        "lang_secondary_dns": "เซิร์ฟเวอร์ DNS รอง",
+        "lang_dhcp": "DHCP",
+        "lang_start": "ที่อยู่ IP เริ่มต้น",
+        "lang_end": "ที่อยู่ IP สิ้นสุด",
+        "lang_lease": "ระยะเวลาที่ให้ใช้งาน",
+        "lang_seconds": "วินาที",
+        "lang_edit_reserved_ip": "แก้ไข IP Address ที่กำหนดให้กับอุปกรณ์",
+        "lang_apply": "นำไปใช้",
+        "lang_refresh": "รีเฟรช",
+        "lang_mac": "MAC Address",
+        "lang_add_dhcp_reserved": "เพิ่ม IP Address ที่กำหนดให้กับอุปกรณ์",
+        "lang_dhcp_reserved_enable": "DHCP ที่กำหนดให้กับอุปกรณ์",
+        "lang_add": "เพิ่ม",
+        "lang_action": "การกระทำ"
+    }
+}

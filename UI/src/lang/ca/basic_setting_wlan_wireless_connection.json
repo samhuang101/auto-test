@@ -1,0 +1,25 @@
+{
+    "basic_setting_wlan_wireless_connection": {
+        "lang_wirelessconn_2g_title": "2,4 G Wi‑Fi Neighbor",
+        "lang_wirelessconn_ssid_title": "SSID",
+        "lang_wirelessconn_bssid_title": "BSSID",
+        "lang_wirelessconn_channel_title": "Canal",
+        "lang_wirelessconn_signal_title": "Signal",
+        "lang_wirelessconn_security_title": "Sécurité",
+        "lang_wirelessconn_wifimode_title": "Sans fil Mode",
+        "lang_wirelessconn_no_data_title": "No Data",
+        "lang_wirelessconn_scan_title": "Scan",
+        "lang_wirelessconn_5g_title": "5 G Wi‑Fi Neighbor",
+        "lang_wirelessconn_band_disabled_error": "search Wi‑Fi Neighbor faild! Error:WL is disenable!",
+        "lang_extender_connection_status": "Connection Statut",
+        "lang_wirelessExtender_band_title": "Radio Bande",
+        "lang_wirelessExtender_status_title": "Statut",
+        "lang_wirelessExtender_site_select": "Select",
+        "lang_extender_connection_config": "Répéteur Configurations",
+        "lang_extender_enable": "Répéteur Enabled",
+        "lang_extender_mode_type": "Répéteur Type",
+        "lang_scan_result_list": "Neighbor Wi‑Fi PA",
+        "lang_scan_btn": "Search",
+        "lang_auth_title": "Sécurité"
+    }
+}

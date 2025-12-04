@@ -1,0 +1,17 @@
+{
+    "basic_setting_backup_wan": {
+        "lang_backup_enable": "ระบบสลับการเชื่อมต่อ WAN (WAN สำรอง)",
+        "lang_check_interval": "Check interval",
+        "lang_check_count": "Check count(per interval )",
+        "lang_internet_URL": "Internet Validation URL",
+        "lang_check_mode": "วิธีการ",
+        "lang_dns_target": "ที่อยู่ IP ของเซิร์ฟเวอร์ชื่อโดเมน",
+        "lang_dns_url": "โดเมนตรวจสอบ DNS",
+        "lang_failover_config": "การตั้งค่าระบบสลับการเชื่อมต่อ WAN",
+        "lang_check_interval_error": "โปรดตั้งค่าช่วงเวลาระหว่าง 1 ถึง 60!",
+        "lang_check_count_error": "โปรดตั้งค่าช่วงจำนวนระหว่าง 1 ถึง 5!",
+        "lang_iface_type_Ethernet": "อีเธอร์เน็ต",
+        "lang_iface_type_Cellular": "เซลลูล่าร์",
+        "lang_backupwan_iface": "อินเทอร์เฟซการสำรองข้อมูล"
+    }
+}

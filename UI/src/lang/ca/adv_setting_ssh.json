@@ -1,0 +1,8 @@
+{
+    "adv_setting_ssh": {
+        "lang_ssh_title": "Paramètres Service - SSH Service",
+        "lang_ssh_enabled_title": "Activer SSH Service",
+        "lang_ssh_apply_title": "Appliquer",
+        "lang_ssh_help_msg": "Please also go to \"Service Ctrl\" page to activer ACL rule for SSH service."
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "basic_setting_lan_lan6": {
+        "lang_managed_flag": "Managed Flag",
+        "lang_other_flag": "Other Config Flag",
+        "lang_max_ra": "Max RA Interval",
+        "lang_min_ra": "Min RA Interval",
+        "lang_seconds": "Seconds",
+        "lang_dhcp6s": "Activer Serveur DHCP IPv6",
+        "lang_ipv6_mode": "IPv6 Mode",
+        "lang_auto": "Automatically",
+        "lang_manual": "Manually",
+        "lang_start_ipv6": "Adresse Start IPv6",
+        "lang_end_ipv6": "Adresse End IPv6",
+        "lang_ipv6_prefix": "IPv6/Prefix",
+        "lang_dns": "Serveur DNS",
+        "lang_prefix_set": "Prefix Set",
+        "lang_apply": "Appliquer",
+        "lang_refresh": "Refresh",
+        "lang_statefulv6": "Stateful DHCPv6",
+        "lang_slacc": "Stateless Address Autoconfiguration",
+        "lang_statelessv6": "Stateless Address Autoconfiguration + Stateless DHCPv6",
+        "lang_dhcpv6_mode": "Auto Configuration Mode",
+        "lang_error_message_start_end_addr_invalid_format": "Le préfixe d’adresse IPv6 doit être ::",
+        "lang_error_message_start_end_addr_invalid_range_format": "Les adresses IPv6 de début et de fin doivent être dans la plage de ::1000 à ::ffff.",
+        "lang_error_message_start_end_addr_invalid_range": "L’adresse IPv6 de fin doit être supérieure ou égale à l’adresse IPv6 de début.",
+        "lang_error_message_ra_max_interval_invalid_format": "L’intervalle Max RA est une valeur invalide.",
+        "lang_error_message_ra_min_interval_invalid_format": "L’intervalle Min RA est une valeur invalide.",
+        "lang_error_message_ra_max_interval_invalid_range_format": "L’intervalle Max RA doit être compris entre 4 et 1800 secondes.",
+        "lang_error_message_ra_min_interval_invalid_range_format": "L’intervalle Min RA doit être compris entre 3 secondes et 0,75 × l’intervalle Max RA."
+    }
+}

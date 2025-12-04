@@ -1,0 +1,21 @@
+{
+    "management_reboot": {
+        "lang_reboot_title": "การตั้งค่ารีบูทอัตโนมัติ",
+        "lang_reboot_device_title": "รีบูทอุปกรณ์",
+        "lang_reboot_btn_title": "รีบูทอุปกรณ์",
+        "lang_reboot_auto_reboot_title": "รีบูทอัตโนมัติ",
+        "lang_reboot_date_title": "วัน",
+        "lang_reboot_time_title": "เวลา",
+        "lang_reboot_input_date_title": "กรอกวันและเวลา",
+        "lang_auto_reboot_enabled": "เปิดการใช้งานรีบูทอัตโนมัติ",
+        "lang_reboot_ntp_hour": "ชั่วโมง",
+        "lang_reboot_ntp_min": "นาที",
+        "lang_reboot_bootup_day": "วัน",
+        "lang_reboot_bootup_hour": "ชั่วโมง",
+        "lang_reboot_save_btn": "บันทึก",
+        "lang_autoreboot_type_bootup": "หลังจาก",
+        "lang_autoreboot_type_ntp": "ทุกวัน",
+        "lang_autoreboot_bootup_ivalid_time_msg": "ไม่สามารถบันทึกค่า 0 วัน 0 ชั่วโมงได้",
+        "lang_autoreboot_bootup_tip": "การรีบูทอัตโนมัติจะถูกปิดหลังจากการรีบูทครั้งนี้"
+    }
+}

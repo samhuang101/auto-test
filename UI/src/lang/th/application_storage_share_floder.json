@@ -1,0 +1,16 @@
+{
+    "application_storage_share_floder": {
+        "lang_sharefloder_note": "ตั้งค่าสิทธิ์การเข้าถึงโฟลเดอร์สำหรับบริการ Samba",
+        "lang_sharefloder_path": "ตำแหน่งโฟลเดอร์",
+        "lang_sharefloder_owner": "เจ้าของ",
+        "lang_sharefloder_permission": "สิทธิ์การเข้าถึง",
+        "lang_sharefloder_apply_btn": "นำการเปลี่ยนแปลงไปใช้",
+        "lang_sharefloder_account_table": "ตารางผู้ใช้ปัจจุบัน",
+        "lang_folder_name": "ชื่อโฟลเดอร์",
+        "lang_folder_path": "ตำแหน่งโฟลเดอร์",
+        "lang_folder_owner": "เจ้าของ",
+        "lang_folder_permission": "สิทธิ์การเข้าถึง",
+        "lang_folder_method": "วิธีการ",
+        "lang_sharefloder_delete_btn": "ลบทั้งหมด"
+    }
+}

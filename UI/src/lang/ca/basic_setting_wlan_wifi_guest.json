@@ -1,0 +1,12 @@
+{
+    "basic_setting_wlan_wifi_guest": {
+        "lang_guest_title_desc": "Invité Access provides visitors to your accueil with Internet access without giving them access to your computers or personal data.",
+        "lang_guest_enabled": "Allow Invité Access",
+        "lang_guest_ssid": "Nom Invité Réseau",
+        "lang_guest_password": "Mot de passe Invité",
+        "lang_guest_change_password": "Change",
+        "lang_guest_max_allowed": "Total Guests Allowed",
+        "lang_guest_ssid_broadcast": "SSID Diffusion",
+        "lang_guest_sub_desc": "Your guests should connect to your sans fil réseau listed above by opening a Web browser and entering the invité password."
+    }
+}

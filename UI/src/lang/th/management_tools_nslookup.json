@@ -1,0 +1,12 @@
+{
+    "management_tools_nslookup": {
+        "lang_nslookup_title": "DNS",
+        "lang_nslookup_interface_title": "เลือกอินเทอร์เฟซ",
+        "lang_nslookup_proto_title": "ประเภทของโปรโตคอล",
+        "lang_nslookup_ipurl_title": "ที่อยู่ปลายทาง",
+        "lang_nslookup_ipurl_error": "ที่อยู๋ปลายทางผิดพลาด! ตัวอย่างเช่น 192.168.1.100",
+        "lang_nslookup_result_title": "ผลการทดสอบ DNS",
+        "lang_nslookup_start_title": "เริ่ม",
+        "lang_nslookup_ipurl6_error": "ที่อยู๋ปลายทางผิดพลาด! ตัวอย่างเช่น 2001:1234:abcd::1"
+    }
+}

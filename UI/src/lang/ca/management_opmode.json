@@ -1,0 +1,15 @@
+{
+    "management_opmode": {
+        "lang_opmode_title": "Operation Mode",
+        "lang_opmode_mode_title": "Change Mode",
+        "lang_opmode_auto_mode_title": "Auto Mode",
+        "lang_opmode_main_router_tagged_mode_title": "Main Routeur Tagged mode",
+        "lang_opmode_main_router_untagged_mode_title": "Main Routeur Untagged mode",
+        "lang_opmode_main_ap_untagged_mode_title": "Main PA Untagged mode",
+        "lang_opmode_ap_mode_title": "PA mode",
+        "lang_opmode_init_error_title": "Device initialization failed",
+        "lang_opmode_reset_confirm_title": "This devices will réinitialiser to default",
+        "lang_opmode_init_error_msg": "Please journal in again! Error message:undefined",
+        "lang_opmode_mesh_info_msg": "If you want to change mode, you need to disabled EasyMesh function."
+    }
+}

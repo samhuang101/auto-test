@@ -1,0 +1,20 @@
+{
+    "status_backup_wan": {
+        "lang_wan_st_ipv4_status_title": "สถานะการเชื่อมต่อ IPv4 WAN",
+        "lang_wan_st_connection_name_title": "ชื่อการเชื่อมต่อ",
+        "lang_wan_st_type_title": "ประเภท",
+        "lang_wan_st_ipaddress_title": "ไอพีแอดเดรส",
+        "lang_wan_st_status_title": "สถานะ",
+        "lang_wan_st_method_title": "วิธีการ",
+        "lang_wan_st_ipv6_status_title": "สถานะการเชื่อมต่อ IPv6 WAN",
+        "lang_wan_st_gateway_title": "เกตเวย์เริ่มต้น",
+        "lang_wan_st_more_title": "เพิ่มเติม",
+        "lang_wan_st_connected": "เชื่อมต่อแล้ว",
+        "lang_wan_st_disconnected": "ไม่มีการเชื่อมต่อ",
+        "lang_wan_st_confirm_title": "ยืนยัน",
+        "lang_wan_st_dns1_title": "DNS หลัก",
+        "lang_wan_st_dns2_title": "DNS รอง",
+        "lang_wan_st_netmask_title": "Mask",
+        "lang_wan_st_prefix_title": "Prefix"
+    }
+}

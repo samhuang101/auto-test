@@ -1,0 +1,20 @@
+{
+    "basic_setting_routing": {
+        "lang_rt_table_title": "Static Route Table",
+        "lang_rt_item_dest_ip": "Adresse Destication IP",
+        "lang_rt_item_mask": "Netmask",
+        "lang_rt_item_gw": "Passerelle",
+        "lang_rt_item_metric": "Metric",
+        "lang_rt_item_iface": "Interface",
+        "lang_rt_item_select": "Select",
+        "lang_rt_add_btn": "Ajouter",
+        "lang_rt_dialog_enable": "Activer Static Route",
+        "lang_rt_dialog_ipaddr": "adresse IP",
+        "lang_rt_dialog_mask": "masque de sous-réseau",
+        "lang_rt_dialog_gw": "Passerelle",
+        "lang_rt_dialog_metric": "Metric",
+        "lang_rt_dialog_iface": "Interface",
+        "lang_rt_item_route_name": "Nom Route",
+        "lang_rt_dialog_route_name": "Nom Route"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "adv_setting_telnet": {
+        "lang_telnet_title": "Paramètres Service - Telnet Service",
+        "lang_telnet_enabled_title": "Activer Telnet Service",
+        "lang_telnet_apply_title": "Appliquer",
+        "lang_telnet_help_msg": "Please also go to \"Service Ctrl\" page to activer ACL rule for Telnet service."
+    }
+}

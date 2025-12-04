@@ -1,0 +1,206 @@
+<script type="text/javascript">
+	var OBJ_LIST = []
+	var INFO_LIST = ['CellularInfo']
+	var ORIGINAL_OBJ_DATA = {}
+	var MODIFIED_OBJ_DATA = {}
+</script>
+<div class="wrapperdiv">
+	<div class="panel-heading ng-binding">
+		<span class="multi_lang" id="lang_cellular_status_title">Cellular Status</span>
+	</div>
+    <div class="panel-body">
+		<table class="table tableCount theme_intel gemtek-two-color-table">
+			<tbody>
+                <tr class="gemtek-tr-bottom-line">
+                    <td><span class="multi_lang" id="lang_cellular_status_Manufacure">Modem Manufacture</span></td>
+                    <td class="text-right gemtek-text-color">
+                        <span id="Manufacture"></span>
+                    </td>
+                </tr>
+                <tr class="gemtek-tr-bottom-line">
+                    <td><span class="multi_lang" id="lang_cellular_status_Model">Modem Model</span></td>
+                    <td class="text-right gemtek-text-color">
+                        <span id="Model"></span>
+                    </td>
+                </tr>
+                <tr class="gemtek-tr-bottom-line">
+                    <td><span class="multi_lang" id="lang_cellular_status_Version">Modem Version</span></td>
+                    <td class="text-right gemtek-text-color">
+                        <span id="Version"></span>
+                    </td>
+                </tr>
+                <tr class="gemtek-tr-bottom-line">
+                    <td><span class="multi_lang" id="lang_cellular_status_cellID">Cell ID</span></td>
+                    <td class="text-right gemtek-text-color">
+                        <span id="CellID"></span>
+                    </td>
+                </tr>
+                <tr class="gemtek-tr-bottom-line">
+                    <td><span class="multi_lang" id="lang_cellular_status_usimstatus">USIM Status</span></td>
+                    <td class="text-right gemtek-text-color">
+                        <span id="USIMStatus"></span>
+                    </td>
+                </tr>
+                <tr class="gemtek-tr-bottom-line">
+                    <td><span class="multi_lang" id="lang_cellular_status_connectionstatus">Connection Status</span></td>
+                    <td class="text-right gemtek-text-color">
+                        <span id="ConnectionStatus"></span>
+                    </td>
+                </tr>
+			</tbody>
+        </table>
+    </div>
+    <div class="panel-heading ng-binding connection_show" >
+        <span class="multi_lang" id="lang_cellular_connection_title">Cellular Connection</span>
+    </div>
+    <div class="panel-body connection_show">
+        <table class="table tableCount theme_intel gemtek-two-color-table">
+            <tbody>
+                <tr class="gemtek-tr-bottom-line">
+                <td><span class="multi_lang" id="lang_cellular_status_connectiontime">Connection Time</span></td>
+                <td class="text-right gemtek-text-color">
+                    <span id="ConnectionTime"></span>
+                </td>
+            </tr>
+            <tr class="gemtek-tr-bottom-line">
+                <td><span class="multi_lang" id="lang_cellular_status_datauplinktraffic">Data Uplink Traffic</span></td>
+                <td class="text-right gemtek-text-color">
+                    <span id="DataUplinkTraffic"></span>
+                </td>
+            </tr>
+            <tr class="gemtek-tr-bottom-line">
+                <td><span class="multi_lang" id="lang_cellular_status_datadownlinktraffic">Data Downlink Traffic</span></td>
+                <td class="text-right gemtek-text-color">
+                    <span id="DataDownlinkTraffic"></span>
+                </td>
+            </tr>
+            <tr class="gemtek-tr-bottom-line">
+                <td><span class="multi_lang" id="lang_cellular_status_operatorname">Operator Name</span></td>
+                <td class="text-right gemtek-text-color">
+                    <span id="OperatorName"></span>
+                </td>
+            </tr>
+            <tr class="gemtek-tr-bottom-line">
+                <td><span class="multi_lang" id="lang_cellular_status_voiceuplinktraffic">Voice Uplink Traffic</span></td>
+                <td class="text-right gemtek-text-color">
+                    <span id="VoiceUplinkTraffic"></span>
+                </td>
+            </tr>
+            <tr class="gemtek-tr-bottom-line">
+                <td><span class="multi_lang" id="lang_cellular_status_voicesownlinktraffic">Voice Downlink Traffic</span></td>
+                <td class="text-right gemtek-text-color">
+                    <span id="VoiceDownlinkTraffic"></span>
+                </td>
+            </tr>
+            <tr class="gemtek-tr-bottom-line">
+                <td><span class="multi_lang" id="lang_cellular_status_rssi">RSSI</span></td>
+                <td class="text-right gemtek-text-color">
+                    <span id="RSSI"></span>
+                </td>
+            </tr>
+            <tr class="gemtek-tr-bottom-line">
+                <td><span class="multi_lang" id="lang_cellular_status_uplinkcurrentspeed">Uplink Current Speed</span></td>
+                <td class="text-right gemtek-text-color">
+                    <span id="UplinkCurrentSpeed"></span>
+                </td>
+            </tr>
+            <tr class="gemtek-tr-bottom-line">
+                <td><span class="multi_lang" id="lang_cellular_status_downlinkcurrentspeed">Downlink Current Speed</span></td>
+                <td class="text-right gemtek-text-color">
+                    <span id="DownlinkCurrentSpeed"></span>
+                </td>
+            </tr>
+            <tr class="gemtek-tr-bottom-line">
+                <td><span class="multi_lang" id="lang_cellular_status_rsrp">RSRP</span></td>
+                <td class="text-right gemtek-text-color">
+                    <span id="RSRP"></span>
+                </td>
+            </tr>
+            <tr class="gemtek-tr-bottom-line">
+                <td><span class="multi_lang" id="lang_cellular_status_connectedband">Connected Band</span></td>
+                <td class="text-right gemtek-text-color">
+                    <span id="ConnectedBand"></span>
+                </td>
+            </tr>
+            <tr class="gemtek-tr-bottom-line">
+                <td><span class="multi_lang" id="lang_cellular_status_network">Network</span></td>
+                <td class="text-right gemtek-text-color">
+                    <span id="Network"></span>
+                </td>
+            </tr>
+            <tr class="gemtek-tr-bottom-line">
+                <td><span class="multi_lang" id="lang_cellular_status_rsrq">RSRQ</span></td>
+                <td class="text-right gemtek-text-color">
+                    <span id="RSRQ"></span>
+                </td>
+            </tr>
+            <tr class="gemtek-tr-bottom-line">
+                <td><span class="multi_lang" id="lang_cellular_status_plmn">PLMN</span></td>
+                <td class="text-right gemtek-text-color">
+                    <span id="PLMN"></span>
+                </td>
+            </tr>
+            <tr class="gemtek-tr-bottom-line">
+                <td><span class="multi_lang" id="lang_cellular_status_dlearfcn">DLEarfcn</span></td>
+                <td class="text-right gemtek-text-color">
+                    <span id="DLEarfcn"></span>
+                </td>
+            </tr>
+            <tr class="gemtek-tr-bottom-line">
+                <td><span class="multi_lang" id="lang_cellular_status_pci">PCI</span></td>
+                <td class="text-right gemtek-text-color">
+                    <span id="PCI"></span>
+                </td>
+            </tr>
+            <tr class="gemtek-tr-bottom-line">
+                <td><span class="multi_lang" id="lang_cellular_status_sinr">SINR</span></td>
+                <td class="text-right gemtek-text-color">
+                    <span id="SINR"></span>
+                </td>
+            </tr>
+            <tr class="gemtek-tr-bottom-line">
+                <td><span class="multi_lang" id="lang_cellular_status_imsi">IMSI</span></td>
+                <td class="text-right gemtek-text-color">
+                    <span id="IMSI"></span>
+                </td>
+            </tr>
+            <tr class="gemtek-tr-bottom-line">
+                <td><span class="multi_lang" id="lang_cellular_status_roamingstatus">Roaming Status</span></td>
+                <td class="text-right gemtek-text-color">
+                    <span id="RoamingStatus"></span>
+                </td>
+            </tr>
+            <tr class="gemtek-tr-bottom-line">
+                <td><span class="multi_lang" id="lang_cellular_status_iccid">ICCID</span></td>
+                <td class="text-right gemtek-text-color">
+                    <span id="ICCID"></span>
+                </td>
+            </tr>
+            <tr class="gemtek-tr-bottom-line">
+                <td><span class="multi_lang" id="lang_cellular_status_pinremain">PIN Remain</span></td>
+                <td class="text-right gemtek-text-color">
+                    <span id="PINRemain"></span>
+                </td>
+            </tr>
+            <tr class="gemtek-tr-bottom-line">
+                <td><span class="multi_lang" id="lang_cellular_status_pukremain">PUK Remain</span></td>
+                <td class="text-right gemtek-text-color">
+                    <span id="PUKRemain"></span>
+                </td>
+            </tr>
+            </tbody>
+        </table>
+    </div>
+</div>
+
+
+<div class="text-center" style="padding:30px 0;border-top: 1px solid #dee5ec;width: calc(100% - 40px);margin: 0 auto;">
+    <div class="btn-align" id="btn_refresh">
+        <script>
+            draw_btn('apply','refresh','page_initial()', 'Refresh')
+        </script>
+    </div>
+</div>
+<!-- include(status-cellular.jsx) -->
+<script language="javascript" type="text/javascript" src="pages/status/status-cellular.js"></script>
+<!-- endinclude -->

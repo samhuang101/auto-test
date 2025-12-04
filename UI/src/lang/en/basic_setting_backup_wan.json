@@ -1,0 +1,17 @@
+{
+    "basic_setting_backup_wan": {
+        "lang_backup_enable": "WAN Failover(Backup WAN)",
+        "lang_check_interval": "Check interval",
+        "lang_check_count": "Check count(per interval)",
+        "lang_internet_URL": "Internet Validation URL",
+        "lang_check_mode": "Method",
+        "lang_dns_target": "Domain Name Server IP Address",
+        "lang_dns_url": "DNS Check Domain",
+        "lang_failover_config": "WAN Failover Configuration",
+        "lang_check_interval_error": "Please set interval range from 1 to 60 !",
+        "lang_check_count_error": "Please set count range from 1 to 5 !",
+        "lang_iface_type_Ethernet": "Ethernet",
+        "lang_iface_type_Cellular": "Cellular",
+        "lang_backupwan_iface": "Backup Interface"
+    }
+}

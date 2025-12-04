@@ -1,0 +1,15 @@
+{
+    "management_tools_ping": {
+        "lang_ping_title": "Ping",
+        "lang_ping_interface_title": "เลือกอินเทอร์เฟศ",
+        "lang_ping_proto_title": "ประเภทโปรโตคอล",
+        "lang_ping_times_title": "จำนวนครั้ง",
+        "lang_ping_times_error": "จำนวนครั้งไม่ถูกต้อง!must rang",
+        "lang_ping_ipurl_title": "โดเมนหรือ IP ปลายทาง",
+        "lang_ping_ipurl_error": "โดเมนหรือ IP ปลายทางไม่ถูกต้อง! ตัวอย่างเช่น 192.168.1.100",
+        "lang_ping_start_title": "เริ่ม",
+        "lang_ping_result_title": "ผลลัพท์การทดสอบ",
+        "lang_ping_times_msg": "เวลา",
+        "lang_ping_ipurl6_error": "โดเมนหรือ IP ปลายทางไม่ถูกต้อง! ตัวอย่างเช่น 2001:1234:abcd::1"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "basic_setting_backup_wan": {
+        "lang_backup_enable": "Basculement WAN (WAN de secours)",
+        "lang_check_interval": "Check interval",
+        "lang_check_count": "Check count(per interval)",
+        "lang_internet_URL": "Internet Validation URL",
+        "lang_check_mode": "Méthode",
+        "lang_dns_target": "Adresse IP du serveur de noms de domaine",
+        "lang_dns_url": "Domaine de vérification DNS",
+        "lang_failover_config": "Configuration du basculement WAN",
+        "lang_check_interval_error": "Veuillez définir l’intervalle entre 1 et 60 !",
+        "lang_check_count_error": "Veuillez définir le nombre entre 1 et 5 !",
+        "lang_iface_type_Ethernet": "Ethernet",
+        "lang_iface_type_Cellular": "Cellulaire",
+        "lang_backupwan_iface": "Interface de sauvegarde"
+    }
+}

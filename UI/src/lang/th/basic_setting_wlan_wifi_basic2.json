@@ -1,0 +1,16 @@
+{
+    "basic_setting_wlan_wifi_basic2": {
+        "lang_title": "เปิดใช้งาน 2.4GHz WiFi",
+        "lang_choose_title": "เลือก SSID",
+        "lang_hide": "ซ่อน SSID",
+        "lang_ssid": "SSID",
+        "lang_bssid": "BSSID",
+        "lang_auth_title": "การยืนยันตัวตน",
+        "lang_encryption": "โหมดการเข้ารหัส",
+        "lang_pwd": "คีย์รหัสผ่าน WPA",
+        "lang_show_key": "Show Key",
+        "lang_hide_key": "Hide Key",
+        "lang_ssid_enabled": "Enabled",
+        "lang_ssid_action": "More"
+    }
+}

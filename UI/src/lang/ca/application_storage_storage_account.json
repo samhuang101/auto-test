@@ -1,0 +1,18 @@
+{
+    "application_storage_storage_account": {
+        "lang_storage_acct_note": "Configure User Accounts for both Samba and FTP Services.",
+        "lang_storage_acct_enabled": "Activer Anonymous Access",
+        "lang_storage_acct_user": "Nom User",
+        "lang_storage_acct_pw": "Mot de passe",
+        "lang_storage_acct_cpw": "Mot de passe Confirmed",
+        "lang_storage_acct_apply_btn": "Appliquer Change",
+        "lang_storage_acct_current_table": "Current Account Table",
+        "lang_account_item_number": "Number",
+        "lang_account_item_username": "Nom User",
+        "lang_account_item_method": "Method",
+        "lang_storage_acct_delete_btn": "Supprimer All",
+        "lang_storage_acct_username_error_msg": "Le nom d’utilisateur peut seulement contenir des lettres et des chiffres (32 caractères maximum).",
+        "lang_storage_acct_password_error_msg": "Le mot de passe doit contenir entre 8 et 64 caractères et peut inclure uniquement des lettres, des chiffres, des traits de soulignement (_) ou des traits d’union (-).",
+        "lang_storage_acct_maximum_error_msg": "Le nombre maximal de comptes a été atteint."
+    }
+}

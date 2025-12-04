@@ -1,0 +1,24 @@
+{
+    "adv_setting_cwmp": {
+        "lang_enabled": "เปิดการใช้งาน",
+        "lang_disabled": "ปิดการใช้งาน",
+        "lang_acs_title": "ACS",
+        "lang_acs_url": "URL",
+        "lang_acs_name": "ชื่อผู้ใช้",
+        "lang_acs_pwd": "รหัสผ่าน",
+        "lang_periodic_title": "เปิดใช้งานการส่งข้อมูลช่วง",
+        "lang_periodic_info_title": "ระยะช่วงเวลาในการส่งข้อมูล",
+        "lang_connection_title": "ร้องขอการเชื่อมต่อ",
+        "lang_connection_name": "ชื่อผู้ใช้",
+        "lang_connection_pwd": "รหัสผ่าน",
+        "lang_connection_path": "ที่อยู่",
+        "lang_connection_port": "พอร์ต",
+        "lang_stun_title": "การเชื่อมต่อ STUN",
+        "lang_stun_enable": "STUN",
+        "lang_stun_url": "URL เซิร์ฟเวอร์ STUN",
+        "lang_stun_port": "พอร์ตเซิร์ฟเวอร์ STUN",
+        "lang_save": "บันทึก",
+        "lang_undo": "ยกเลิกคำสั่ง",
+        "lang_tr069_title": "TR069"
+    }
+}

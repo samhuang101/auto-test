@@ -1,0 +1,15 @@
+{
+    "basic_setting_wlan_wifi_adv2": {
+        "lang_mode": "โหมด",
+        "lang_bandwidth": "แบนด์วิธ",
+        "lang_channel": "ช่องสัญญาณ",
+        "lang_max": "จำนวนเครื่องเชื่อมต่อสูงสุด",
+        "lang_gi": "Short GI",
+        "lang_wmm": "WMM",
+        "lang_txbf": "เปิดการใช้งาน TXBF",
+        "lang_Mixed": "แบบผสม",
+        "lang_Auto": "อัตโนมัติ",
+        "lang_ssid_enabled": "Enable",
+        "lang_psc_enabled": "เปิดใช้งาน PSC"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "adv_setting_telnet": {
+        "lang_telnet_title": "บริการ - ตั้งค่าบริการ Telnet",
+        "lang_telnet_enabled_title": "เปิดใช้บริการ Telnet",
+        "lang_telnet_apply_title": "นำไปใช้",
+        "lang_telnet_help_msg": "โปรดไปยังหน้าการตั้งค่า \\\"Service Ctrl\"\\ เพื่อเปิดการใช้งาน ACL สำหรับบริการ Telnet"
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "application_storage_samba": {
+        "lang_samba_note": "Note: To activer Samba Server, at least one samba user account would be set, and also need a storage device. To ajouter a samba user, please entry the page \"Storage User Accounts\".",
+        "lang_samba_enable": "Activer Samba Service",
+        "lang_samba_apply": "Appliquer"
+    }
+}

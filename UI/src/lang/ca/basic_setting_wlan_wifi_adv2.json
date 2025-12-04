@@ -1,0 +1,15 @@
+{
+    "basic_setting_wlan_wifi_adv2": {
+        "lang_mode": "Mode",
+        "lang_bandwidth": "Bande passante",
+        "lang_channel": "Canal",
+        "lang_max": "Maxinum Clients",
+        "lang_gi": "Short GI",
+        "lang_wmm": "WMM",
+        "lang_txbf": "TXBF Activer",
+        "lang_Mixed": "Mixed",
+        "lang_Auto": "Auto",
+        "lang_ssid_enabled": "Activer",
+        "lang_psc_enabled": "PSC activé"
+    }
+}

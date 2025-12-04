@@ -1,0 +1,11 @@
+{
+    "login": {
+        "lang_login_title": "เข้าสู่ระบบ",
+        "lang_login_username": "ชื่อผู้ใช้",
+        "lang_login_passwd": "รหัสผ่าน",
+        "lang_login_error_auth_msg": "ชื่อหรือรหัสผ่านไม่ถูกต้อง!",
+        "lang_login_empty_msg": "ชื่อหรือรหัสผ่านต้องไม่ว่างเปล่า!",
+        "lang_login_btn": "เข้าสู่ระบบ",
+        "lang_login_permission_msg": "ข้อผิดพลาดในการเข้าสู่ระบบ! คุณไม่ได้รับอนุญาตให้เข้าสู่ระบบ"
+    }
+}

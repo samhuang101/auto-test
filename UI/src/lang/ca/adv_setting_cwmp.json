@@ -1,0 +1,24 @@
+{
+    "adv_setting_cwmp": {
+        "lang_enabled": "Enabled",
+        "lang_disabled": "Disabled",
+        "lang_acs_title": "ACS",
+        "lang_acs_url": "URL",
+        "lang_acs_name": "Nom User",
+        "lang_acs_pwd": "Mot de passe",
+        "lang_periodic_title": "Periodic Inform Activer",
+        "lang_periodic_info_title": "Periodic Inform Interval",
+        "lang_connection_title": "Connection Request",
+        "lang_connection_name": "Nom User",
+        "lang_connection_pwd": "Mot de passe",
+        "lang_connection_path": "Path",
+        "lang_connection_port": "Port",
+        "lang_stun_title": "STUN Connection",
+        "lang_stun_enable": "STUN",
+        "lang_stun_url": "STUN Serveur URL",
+        "lang_stun_port": "STUN Serveur Port",
+        "lang_save": "Enregistrer",
+        "lang_undo": "Undo",
+        "lang_tr069_title": "TR069"
+    }
+}

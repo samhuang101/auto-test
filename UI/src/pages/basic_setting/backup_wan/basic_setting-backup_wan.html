@@ -1,0 +1,87 @@
+<script type="text/javascript">
+	var OBJ_LIST = ['BackupWan']
+	var ORIGINAL_OBJ_DATA = {}
+	var MODIFIED_OBJ_DATA = {}
+	var wan_name_str = [];
+	var wan_name_val = ['0'];
+	var backupwan_iface_str = []
+	var backupwan_iface_val = []
+</script>
+
+<div class="wrapperdiv">
+    <div class="panel-body">
+		<!--INPUT ELEMENT SWITCH START-->
+		<!-- div id="switch_enable" class="form-group no-padding-hr col-xs-12 col-sm-12">
+			<script>
+				draw_switch('enable','lang_backup_enable','switch_toggle(\\\'enable\\\', \\\'2\\\')');
+			</script>
+		</div -->
+        <div id="radio_check_method" class="form-group no-padding-hr col-xs-12 col-sm-12">
+            <script>
+				var option_list=[
+					{"id":"mode_icmp","label":"Ping","cb":"check_mode_selector('icmp')"},
+					{"id":"mode_dns","label":"DNS Lookup","cb":"check_mode_selector('dns')"}
+				]
+                draw_radio('check_method','lang_check_mode',option_list)
+            </script>
+		</div>
+        <div id="input_internet_URL" class="form-group no-padding-hr col-xs-12 col-sm-12 mode_icmp">
+			<script>
+				draw_input('internet_URL','lang_internet_URL','Please Enter the value','','',6);
+			</script>
+		</div>
+        <div id="input_dns_target" class="form-group no-padding-hr col-xs-12 col-sm-12" style="display: none;">
+			<script>
+				draw_input('dns_target','lang_dns_target','Please Enter the value','','',6);
+			</script>
+		</div>
+		<div id="input_dns_url" class="form-group no-padding-hr col-xs-12 col-sm-6 mode_dns" >
+			<script>
+				draw_input('dns_url','lang_dns_url','Please Enter the value','','',12);
+			</script>
+		</div>
+		<div id="input_check_interval" class="form-group no-padding-hr col-xs-12 col-sm-6 ">
+			<script>
+				draw_input('check_interval','lang_check_interval','Please Enter the value','','',12);
+			</script>
+		</div>
+		<div id="input_check_count" class="form-group no-padding-hr col-xs-12 col-sm-6 ">
+			<script>
+				draw_input('check_count','lang_check_count','Please Enter the value','','',12);
+			</script>
+		</div>
+    </div>
+    <div class="panel-heading ng-binding" style="">
+        <span class="multi_lang" id="lang_failover_config">Failover Configuration</span>
+    </div>
+    <div class="panel-body" style="">
+        <div id="switch_failover_enabled" class="form-group no-padding-hr col-xs-12 col-sm-12">
+			<script>
+				draw_switch('failover_enabled','lang_backup_enable','failover_enabled()');
+			</script>
+		</div>
+		<div id="select_backupwan_iface" class="form-group no-padding-hr col-xs-12 col-sm-12">
+			<script>
+				draw_select('backupwan_iface', backupwan_iface_str, backupwan_iface_val,'select_iface()', '', 'lang_backupwan_iface');
+			</script>
+		</div>
+    </div>
+	<!--APPLY CONTROL START-->
+	<div class="text-center" style="padding:30px 0;border-top: 1px solid #dee5ec;width: calc(100% - 40px);margin: 0 auto;">
+		<div class="btn-align" id="btn_cancel">
+			<script>
+			draw_btn('cancel','cancel','page_initial()')
+			</script>
+		</div>
+		<div class="btn-align" id="btn_apply">
+			<script>
+			draw_btn('apply','apply','page_save()')
+			</script>
+		</div>
+	</div>
+	<!--APPLY CONTROL STOP-->
+
+</div>
+<!-- include(basic_setting-backup_wan.jsx) -->
+<script language="javascript" type="text/javascript" src="pages/basic_setting/basic_setting-backup_wan.js"></script>
+<!-- endinclude -->

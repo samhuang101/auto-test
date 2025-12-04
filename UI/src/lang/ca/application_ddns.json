@@ -1,0 +1,27 @@
+{
+    "application_ddns": {
+        "lang_ddns_enabled": "Activer DDNS",
+        "lang_ddns_provider": "Service Provider",
+        "lang_ddns_domainname": "Nom Domain",
+        "lang_ddns_user": "User Name/Email",
+        "lang_ddns_pw": "Mot de passe/Key",
+        "lang_ddns_system": "Système",
+        "lang_ddns_exchange": "Mail Exchange (Optional)",
+        "lang_ddns_backupmx": "Sauvegarde MX",
+        "lang_ddns_wildcard": "Wildcard",
+        "lang_ddns_apply": "Appliquer",
+        "lang_ddns_refresh": "Refresh",
+        "lang_ddns_status": "DDNS Statut",
+        "lang_ddns_item_domainname": "Nom Domain",
+        "lang_ddns_item_usermail": "User Name/Email",
+        "lang_ddns_item_ipaddr": "Adresse Internet IP",
+        "lang_ddns_item_status": "DDNS Statut",
+        "lang_ddns_status_disabled": "Disabled",
+        "lang_ddns_status_success": "Updated Successfully",
+        "lang_ddns_status_fail": "Authorization fails",
+        "lang_ddns_status_invalid_hostname": "Nom Invalid Host",
+        "lang_ddns_status_connected": "Connected",
+        "lang_ddns_status_no_internet": "No Internet",
+        "lang_ddns_status_complete": "Operation complete"
+    }
+}

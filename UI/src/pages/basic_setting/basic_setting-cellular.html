@@ -1,0 +1,123 @@
+<script type="text/javascript">
+	var OBJ_LIST = ['Cellular']
+	var INFO_LIST = ['CellularInfo']
+	var ORIGINAL_OBJ_DATA = {}
+	var MODIFIED_OBJ_DATA = {}
+    var network_mode_str = ['5G/4G','5G','4G'];
+	var network_mode_val = ['54g','5g','4g'];
+    var pdp_type_str = ['IPv4','IPv6','IPv4/v6'];
+	var pdp_type_val = ['ip','ipv6','ipv4v6'];
+    var auth_str = ['NONE','PAP','CHAP'];
+	var auth_val = ['none','pap','chap'];
+</script>
+
+<div class="wrapperdiv">
+	<div class="panel-heading ng-binding " style="">
+		<span class="multi_lang" id="lang_cellular_common_zone_title">Common Configuration</span>
+	</div>
+	<div class="panel-body">
+		<!--SELECT ELEMENT START-->
+		<div id="select_network_mode" class="form-group no-padding-hr col-xs-12 col-sm-12">
+			<script>
+				draw_select('network_mode', network_mode_str, network_mode_val,'', '', 'lang_network_mode');
+			</script>
+		</div>
+		<!--SELECT ELEMENT STOP-->
+        <!--INPUT ELEMENT SWITCH START-->
+		<div id="switch_auto_connect" class="form-group no-padding-hr col-xs-12 col-sm-6">
+			<script>
+				draw_switch('auto_connect','lang_auto_connect','switch_toggle(\\\'auto_connect\\\', \\\'2\\\')');
+			</script>
+		</div>
+		<!--INPUT ELEMENT SWITCH STOP-->
+        <div id="switch_roaming" class="form-group no-padding-hr col-xs-12 col-sm-6">
+			<script>
+				draw_switch('roaming','lang_roaming','switch_toggle(\\\'roaming\\\', \\\'2\\\')');
+			</script>
+		</div>
+        <div id="input_dl_limit" class="form-group no-padding-hr col-xs-12 col-sm-6">
+			<script>
+				draw_input('dl_limit','lang_dl_limit','Please Enter the value','','',12);
+			</script>
+		</div>
+        <div id="input_up_limit" class="form-group no-padding-hr col-xs-12 col-sm-6">
+			<script>
+				draw_input('up_limit','lang_up_limit','Please Enter the value','','',12);
+			</script>
+		</div>
+		<div id="input_usage_limit" class="form-group no-padding-hr col-xs-12 col-sm-12">
+			<script>
+				draw_input('usage_limit','lang_usage_limit','Please Enter the value','','',6);
+			</script>
+		</div>
+		<div id="input_usage_dl_limit" class="form-group no-padding-hr col-xs-12 col-sm-6">
+			<script>
+				draw_input('usage_dl_limit','lang_usage_dl_limit','Please Enter the value','','',12);
+			</script>
+		</div>
+		<div id="input_usage_up_limit" class="form-group no-padding-hr col-xs-12 col-sm-6">
+			<script>
+				draw_input('usage_up_limit','lang_usage_up_limit','Please Enter the value','','',12);
+			</script>
+		</div>
+	</div>
+    <div class="panel-heading ng-binding " style="">
+		<span class="multi_lang" id="lang_cellular_apn_zone_title">APN Configuration</span>
+	</div>
+	<div class="panel-body">
+		<div id="select_pdp_type" class="form-group no-padding-hr col-xs-12 col-sm-12">
+			<script>
+				draw_select('pdp_type', pdp_type_str, pdp_type_val,'', '', 'lang_pdp_type');
+			</script>
+		</div>
+        <div id="radio_apn_mode" class="raw no-padding-hr col-xs-12 col-sm-12 ">
+            <script>
+                var option_list=[
+                    {"id":"auto_apn","label":"auto_apn","cb":"switch_radio(this)"},
+                    {"id":"manual_apn","label":"manual_apn","cb":"switch_radio(this)"}
+                ]
+                draw_radio('apn_mode','lang_apn_mode',option_list)
+            </script>
+        </div>
+        <div id="input_apn" class="form-group no-padding-hr col-xs-12 col-sm-6 apn_type_show">
+			<script>
+				draw_input('apn','lang_apn','Please Enter the value','','',12);
+			</script>
+		</div>
+        <div id="select_auth" class="form-group no-padding-hr col-xs-12 col-sm-12 apn_type_show">
+			<script>
+				draw_select('auth', auth_str, auth_val,'', '', 'lang_auth');
+			</script>
+		</div>
+        <div id="input_username" class="form-group no-padding-hr col-xs-12 col-sm-6 apn_type_show">
+			<script>
+				draw_input('username','lang_username','Please Enter the value','','',12);
+			</script>
+		</div>
+        <div id="input_password" class="form-group no-padding-hr col-xs-12 col-sm-6 apn_type_show">
+			<script>
+				draw_input('password','lang_password','Please Enter the value','','',12);
+			</script>
+		</div>
+	</div>
+   
+	
+	<!--APPLY CONTROL START-->
+	<div class="text-center" style="padding:30px 0;border-top: 1px solid #dee5ec;width: calc(100% - 40px);margin: 0 auto;">
+		<div class="btn-align" id="btn_cancel">
+			<script>
+			draw_btn('cancel','cancel','page_initial()')
+			</script>
+		</div>
+		<div class="btn-align" id="btn_apply">
+			<script>
+			draw_btn('apply','apply','page_save()')
+			</script>
+		</div>
+	</div>
+	<!--APPLY CONTROL STOP-->
+
+</div>
+<!-- include(basic_setting-cellular.jsx) -->
+<script language="javascript" type="text/javascript" src="pages/basic_setting/basic_setting-cellular.js"></script>
+<!-- endinclude -->
